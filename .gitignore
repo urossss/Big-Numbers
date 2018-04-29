@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# don't ignore folders
+!*/
+
+# don't ignore .gitignore, *.c and *.h files
+!.gitignore
+!*.c
+!*.h
